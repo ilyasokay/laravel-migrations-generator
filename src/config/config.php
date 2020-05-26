@@ -18,6 +18,6 @@ return [
     |
     */
 
-    'migration_target_path'   => base_path('database/migrations'),
+    'migration_target_path'   => base_path('database/migrations/tenant'),
 
 ];
